@@ -1,0 +1,19 @@
+ISD lab sheet week 1                        26/09/2016
+Questions:
+
+1. What is a code repository (often also called version control system) used
+for?
+Code repository is a secure storage space used by companies 
+2. Why is it advantageous to use a code repository? 
+The greatest advantage to use a code repository, is it provides version control system a secure storage space to store large and sensitive data.
+3. Describe the different “layers” of Software that exist on a typical
+computer and explain why there are different layers of software.
+There are 4 layers:
+- User, input and output
+- Application software
+- System software 
+- Hardware
+ 4. Describe what an algorithm is and explain why it is a useful “tool” to
+translate from a human level problem (we can think of) to a computer
+program.
+An algorithm is a mathematical program used to run a computer program, it is highest level language used by humans to communicate 
